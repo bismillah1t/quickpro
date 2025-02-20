@@ -1,0 +1,54 @@
+body{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+header{
+	padding:30px 50px ;
+	box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+		
+}
+nav{
+	display: flex;
+	justify-content:space-between;
+	align-items:center;
+
+}
+nav img{}
+nav ul{
+	margin: 0px;
+	padding:0px ;
+	list-style: none;
+	display: flex;
+}
+nav ul li{
+	margin:0 0 0 50px ;
+	
+}
+nav ul li a{
+	text-decoration:none ;
+	font: weight 700 ;
+	font-size:17px ;
+	color:#3b506c ;
+
+}
+.banner{
+	text-align: center;
+
+}
+.banner h1{
+	font-size: 70px;
+}
+.banner h1 span{
+color: #0C66FF;	
+
+}
+.banner img{
+	width:50% ;
+	margin: 30px 0 0 0;
+}
+   
+    
+   
+   
